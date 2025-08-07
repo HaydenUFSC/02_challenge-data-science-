@@ -23,9 +23,9 @@
   </a>
 </p>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/HaydenUFSC/02_challenge-data-science?style=social)](https://github.com/HaydenUFSC/03_challenge-data-science)
-[![GitHub forks](https://img.shields.io/github/forks/HaydenUFSC/02_challenge-data-science?style=social)](https://github.com/HaydenUFSC/03_challenge-data-science/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/HaydenUFSC/02_challenge-data-science?style=social)](https://github.com/HaydenUFSC/03_challenge-data-science/watchers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/HaydenUFSC/02_challenge-data-science-?style=social)](https://github.com/HaydenUFSC/03_challenge-data-science)
+[![GitHub forks](https://img.shields.io/github/forks/HaydenUFSC/02_challenge-data-science-?style=social)](https://github.com/HaydenUFSC/03_challenge-data-science/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/HaydenUFSC/02_challenge-data-science-?style=social)](https://github.com/HaydenUFSC/03_challenge-data-science/watchers)
 
 ---
 
